@@ -1,0 +1,2 @@
+[console_scripts]
+thought-writer = thought_writer.main:app
