@@ -91,10 +91,9 @@ def clarify(ai: AI, dbs: DBs) -> List[dict]:
 
         user_input += (
             "\n\n"
-            "Is anything else unclear? If yes, only answer in the form:\n"
-            "{remaining unclear areas} remaining questions.\n"
+            "Is the idea fully specified? If no, only answer in the form:\n"
             "{Next question}\n"
-            'If everything is sufficiently clear, only answer "Nothing more to clarify.".'
+            'If the idea is fully specified, only answer "Nothing more to clarify.".'
         )
 
     print()
