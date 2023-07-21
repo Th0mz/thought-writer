@@ -1,5 +1,0 @@
-step_name,prompt_tokens_in_step,completion_tokens_in_step,total_tokens_in_step,total_prompt_tokens,total_completion_tokens,total_tokens
-clarify,160,74,234,160,74,234
-clarify,226,11,237,386,85,471
-clarify,283,5,288,669,90,759
-gen_clarified_thought,1178,596,1774,1847,686,2533
